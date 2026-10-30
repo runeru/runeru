@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## 📫 PGP-key
 ```
@@ -70,3 +70,4 @@ G9I16ezve8/vTXwkGWypevjLomKZEkxvXEzxm6IV7p1A74/pSSKlx3szyg5f0EKz
 =yR2x
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+-->
